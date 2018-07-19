@@ -1,0 +1,122 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Get the latest cricket feeds from cricinfo",
+          "examplePhrases": [
+            "Alexa, Open cricket feeds",
+            "Alexa, Open cricket feeds for India",
+            "Alexa, Open cricket feeds for global"
+          ],
+          "keywords": [
+            "cricket",
+            "feeds",
+            "global",
+            "cricket",
+            "news"
+          ],
+          "name": "Cricket Feeds",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/9cd24a30d7f14cec892043c5f73a9694/APP_ICON?versionId=IbgOjrCT5NRKBqxQ1.Knz.R_nz9Q.W4q&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074460&Signature=q64H47RChGn9ilBAPvkGoWqOMlQ%3D",
+          "description": "This skill provides the latest cricket feeds from CricInfo. You can get the feeds by country, mark a particular country as a favorite, remove favorite, list all supported categories, get more details of a particular feed.\n\nInvocation Name - cricket feeds\nJust say \"Open cricket feeds\" or \"Start cricket feeds\"\n\nTo open the feeds for a particular category\n\nJust say \"Open category India\" or \"Open Cricket Feeds for {country}\"\n\nFor example \"Open Cricket Feeds for India\"\n\nTo mark a particular country as favorite\n\nJust say \"mark {Country} as favorite\"\n\nfor example \"mark India as favorite\"\n\nTo Remove a particular country from favorites\n\nJust say \"remove {country} as favorite\"\n\nfor example \"remove India as favorite\"\n\nTo get supported categories\nJust say \"list categories\" or \"get category list\"",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/189b4b4c9ea54eccbf631640734ef3b6/APP_ICON_LARGE?versionId=J573bJJFgvNcYuFB89yMGoYLKLe89XEK&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074460&Signature=sgqd1vhckVJ7koWzuOd6Wx3q0g4%3D"
+        },
+        "en-CA": {
+          "summary": "Get the latest cricket feeds from cricinfo",
+          "examplePhrases": [
+            "Alexa, Open cricket feeds",
+            "Alexa, Open cricket feeds for India",
+            "Alexa, Open cricket feeds for global"
+          ],
+          "keywords": [
+            "cricket",
+            "feeds",
+            "global",
+            "cricket",
+            "news"
+          ],
+          "name": "Cricket Feeds",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/9cd24a30d7f14cec892043c5f73a9694/APP_ICON?versionId=IbgOjrCT5NRKBqxQ1.Knz.R_nz9Q.W4q&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074460&Signature=q64H47RChGn9ilBAPvkGoWqOMlQ%3D",
+          "description": "This skill provides the latest cricket feeds from CricInfo. You can get the feeds by country, mark a particular country as a favorite, remove favorite, list all supported categories, get more details of a particular feed.\n\nInvocation Name - cricket feeds\nJust say \"Open cricket feeds\" or \"Start cricket feeds\"\n\nTo open the feeds for a particular category\n\nJust say \"Open category India\" or \"Open Cricket Feeds for {country}\"\n\nFor example \"Open Cricket Feeds for India\"\n\nTo mark a particular country as favorite\n\nJust say \"mark {Country} as favorite\"\n\nfor example \"mark India as favorite\"\n\nTo Remove a particular country from favorites\n\nJust say \"remove {country} as favorite\"\n\nfor example \"remove India as favorite\"\n\nTo get supported categories\nJust say \"list categories\" or \"get category list\"",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/189b4b4c9ea54eccbf631640734ef3b6/APP_ICON_LARGE?versionId=J573bJJFgvNcYuFB89yMGoYLKLe89XEK&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074460&Signature=sgqd1vhckVJ7koWzuOd6Wx3q0g4%3D"
+        },
+        "en-IN": {
+          "summary": "Get the latest cricket feeds from cricinfo",
+          "examplePhrases": [
+            "Alexa, Open cricket feeds",
+            "Alexa, Open cricket feeds for India",
+            "Alexa, Open cricket feeds for global"
+          ],
+          "keywords": [
+            "cricket",
+            "feeds",
+            "global",
+            "cricket",
+            "news"
+          ],
+          "name": "Cricket Feeds",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/9cd24a30d7f14cec892043c5f73a9694/APP_ICON?versionId=IbgOjrCT5NRKBqxQ1.Knz.R_nz9Q.W4q&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074460&Signature=q64H47RChGn9ilBAPvkGoWqOMlQ%3D",
+          "description": "This skill provides the latest cricket feeds from CricInfo. You can get the feeds by country, mark a particular country as a favorite, remove favorite, list all supported categories, get more details of a particular feed.\n\nInvocation Name - cricket feeds\nJust say \"Open cricket feeds\" or \"Start cricket feeds\"\n\nTo open the feeds for a particular category\n\nJust say \"Open category India\" or \"Open Cricket Feeds for {country}\"\n\nFor example \"Open Cricket Feeds for India\"\n\nTo mark a particular country as favorite\n\nJust say \"mark {Country} as favorite\"\n\nfor example \"mark India as favorite\"\n\nTo Remove a particular country from favorites\n\nJust say \"remove {country} as favorite\"\n\nfor example \"remove India as favorite\"\n\nTo get supported categories\nJust say \"list categories\" or \"get category list\"",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/189b4b4c9ea54eccbf631640734ef3b6/APP_ICON_LARGE?versionId=J573bJJFgvNcYuFB89yMGoYLKLe89XEK&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074460&Signature=sgqd1vhckVJ7koWzuOd6Wx3q0g4%3D"
+        },
+        "en-AU": {
+          "summary": "Get the latest cricket feeds from cricinfo",
+          "examplePhrases": [
+            "Alexa, Open cricket feeds",
+            "Alexa, Open cricket feeds for India",
+            "Alexa, Open cricket feeds for global"
+          ],
+          "keywords": [
+            "cricket",
+            "feeds",
+            "global",
+            "cricket",
+            "news"
+          ],
+          "name": "Cricket Feeds",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/9cd24a30d7f14cec892043c5f73a9694/APP_ICON?versionId=IbgOjrCT5NRKBqxQ1.Knz.R_nz9Q.W4q&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074460&Signature=q64H47RChGn9ilBAPvkGoWqOMlQ%3D",
+          "description": "This skill provides the latest cricket feeds from CricInfo. You can get the feeds by country, mark a particular country as a favorite, remove favorite, list all supported categories, get more details of a particular feed.\n\nInvocation Name - cricket feeds\nJust say \"Open cricket feeds\" or \"Start cricket feeds\"\n\nTo open the feeds for a particular category\n\nJust say \"Open category India\" or \"Open Cricket Feeds for {country}\"\n\nFor example \"Open Cricket Feeds for India\"\n\nTo mark a particular country as favorite\n\nJust say \"mark {Country} as favorite\"\n\nfor example \"mark India as favorite\"\n\nTo Remove a particular country from favorites\n\nJust say \"remove {country} as favorite\"\n\nfor example \"remove India as favorite\"\n\nTo get supported categories\nJust say \"list categories\" or \"get category list\"",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/189b4b4c9ea54eccbf631640734ef3b6/APP_ICON_LARGE?versionId=J573bJJFgvNcYuFB89yMGoYLKLe89XEK&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074460&Signature=sgqd1vhckVJ7koWzuOd6Wx3q0g4%3D"
+        },
+        "en-GB": {
+          "summary": "Get the latest cricket feeds from cricinfo",
+          "examplePhrases": [
+            "Alexa, Open cricket feeds",
+            "Alexa, Open cricket feeds for India",
+            "Alexa, Open cricket feeds for global"
+          ],
+          "keywords": [
+            "cricket",
+            "feeds",
+            "global",
+            "cricket",
+            "news"
+          ],
+          "name": "Cricket Feeds",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/9cd24a30d7f14cec892043c5f73a9694/APP_ICON?versionId=IbgOjrCT5NRKBqxQ1.Knz.R_nz9Q.W4q&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074460&Signature=q64H47RChGn9ilBAPvkGoWqOMlQ%3D",
+          "description": "This skill provides the latest cricket feeds from CricInfo. You can get the feeds by country, mark a particular country as a favorite, remove favorite, list all supported categories, get more details of a particular feed.\n\nInvocation Name - cricket feeds\nJust say \"Open cricket feeds\" or \"Start cricket feeds\"\n\nTo open the feeds for a particular category\n\nJust say \"Open category India\" or \"Open Cricket Feeds for {country}\"\n\nFor example \"Open Cricket Feeds for India\"\n\nTo mark a particular country as favorite\n\nJust say \"mark {Country} as favorite\"\n\nfor example \"mark India as favorite\"\n\nTo Remove a particular country from favorites\n\nJust say \"remove {country} as favorite\"\n\nfor example \"remove India as favorite\"\n\nTo get supported categories\nJust say \"list categories\" or \"get category list\"",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/189b4b4c9ea54eccbf631640734ef3b6/APP_ICON_LARGE?versionId=J573bJJFgvNcYuFB89yMGoYLKLe89XEK&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074460&Signature=sgqd1vhckVJ7koWzuOd6Wx3q0g4%3D"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "No special instruction",
+      "category": "SPORTS_NEWS",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "./lambda/us-east-1_CricketFeeds"
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}

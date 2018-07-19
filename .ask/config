@@ -1,0 +1,52 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.4fac1b92-416b-49b5-9681-fa1ca0c8aa24",
+      "was_cloned": true,
+      "resources": {
+        "manifest": {
+          "eTag": "487a72c6fcf8c4292ed45b26c6b9b9e4"
+        },
+        "interactionModel": {
+          "en-US": {
+            "eTag": "0888ea3c64244e9b980e08c56e208013"
+          },
+          "en-CA": {
+            "eTag": "0888ea3c64244e9b980e08c56e208013"
+          },
+          "en-IN": {
+            "eTag": "0888ea3c64244e9b980e08c56e208013"
+          },
+          "en-AU": {
+            "eTag": "0888ea3c64244e9b980e08c56e208013"
+          },
+          "en-GB": {
+            "eTag": "0888ea3c64244e9b980e08c56e208013"
+          }
+        },
+        "lambda": [
+          {
+            "arn": "arn:aws:lambda:us-east-1:471325060569:function:CricketFeeds",
+            "awsRegion": "us-east-1",
+            "functionName": "CricketFeeds",
+            "alexaUsage": [
+              "custom/default"
+            ],
+            "revisionId": "b9325d94-1a8e-4de0-ac3b-5dfe1b9a6d2e"
+          }
+        ]
+      },
+      "merge": {
+        "manifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "arn:aws:lambda:us-east-1:471325060569:function:CricketFeeds"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
